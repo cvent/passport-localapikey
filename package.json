@@ -5,10 +5,10 @@
   "author": { "name": "Sudhakar Mani", "email": "mail4sudhakar@gmail.com", "url": "http://www.sudhakarmani.com/" },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cholalabs/passport-localapikey.git"
+    "url": "https://github.com/cvent/passport-localapikey.git"
   },
   "bugs": {
-    "url": "https://github.com/cholalabs/passport-localapikey/issues"
+    "url": "https://github.com/cvent/passport-localapikey/issues"
   },
   "main": "./lib/passport-localapikey",
   "dependencies": {
